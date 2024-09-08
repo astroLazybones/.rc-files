@@ -7,3 +7,4 @@ export PATH=$PATH:/home/astro/.cargo/bin/
 export PATH=$HOME/.local/bin:$PATH
 export PATH=$PATH:/home/linuxbrew/.linuxbrew/bin
 export PATH="$HOME/Zig:$PATH"
+export PATH=$PATH:/usr/share/perl6/site/bin/
